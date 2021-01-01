@@ -1,0 +1,7 @@
+car
+train
+ship
+airplane
+bike
+bicycle
+bus
